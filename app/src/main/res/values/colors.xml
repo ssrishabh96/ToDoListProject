@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default strings resources from the theme-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- MainActivity strings resources-->
+    <color name="notepad_paper">  #eef8e0a0 </color>
+    <color name="notepad_lined">  #ff0000ff </color>
+    <color name="notepad_margin"> #90ff0000  </color>
+    <color name="notepad_text">#5e5e62</color>
+
+    <!-- CompassView strings resources-->
+    <color name="compass_background">#ada</color>
+    <color name="compass_marker_color">#a162</color>
+    <color name="text_color">#a232</color>
+
+</resources>

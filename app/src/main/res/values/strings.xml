@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="addItemHint">Add new To Do Item </string>
+    <string name="addItemContentDescription">Add new To Do Item </string>
+
+    <!-- CompassView strings resources-->
+
+    <string name="cardinal_north">N</string>
+    <string name="cardinal_south">S</string>
+    <string name="cardinal_west">W</string>
+    <string name="cardinal_east">E</string>
+
+
+</resources>
